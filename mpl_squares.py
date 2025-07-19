@@ -10,6 +10,7 @@
 import matplotlib
 import matplotlib.pyplot as plt
 
+# The line below is optional, since I'm using a terminal to execute Im using this, otherwise no need
 matplotlib.use("TkAgg")
 
 input_values = list(range(1, 6))
